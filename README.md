@@ -1,4 +1,4 @@
-Live Link: https://burger-projects.netlify.app/contact
+Live Link: https://burger-projects.netlify.app/
 
 # Getting Started with Create React App
 
